@@ -1,0 +1,14 @@
+{
+  "name": "s3-bucket-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel F",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.797.0"
+  }
+}
